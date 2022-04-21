@@ -1,4 +1,4 @@
-public class operators{
+public class Operators{
     
 
         public void display()
